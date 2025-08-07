@@ -9,7 +9,7 @@
 - **Email**: belfkihosni@gmail.com
 - **LinkedIn**: [linkedin.com/in/hosnibelfeki](https://www.linkedin.com/in/hosnibelfeki)
 
-![LifeSync AI Logo](public/logo.svg)
+![LifeSync AI Logo]([public/logo.svg](https://lifesync-ai.netlify.app/LifeSync%20AI%20logo.png))
 
 ## 🌟 Overview
 
