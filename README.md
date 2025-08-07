@@ -1,8 +1,8 @@
 # LifeSync AI - Comprehensive Life Management Platform
-## Démo en Ligne
+## Live Demo
 
-- **Lien de Démo Live**: [https://lifesync-ai.netlify.app/](https://lifesync-ai.netlify.app/)
-- **Image de Démo**: ![Image de Démo](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/594/077/datas/gallery.jpg)
+- **Live Demo Link**: [https://lifesync-ai.netlify.app/](https://lifesync-ai.netlify.app/)
+- **Demo Image**: ![Demo Image](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/594/077/datas/gallery.jpg)
 
 ## Contact
 
@@ -13,220 +13,216 @@
 
 ## 🌟 Overview
 
-LifeSync AI est une plateforme complète de gestion de vie, alimentée par l'IA, qui aide les utilisateurs à organiser et optimiser chaque aspect de leur vie. De la surveillance de la santé à la planification financière, de la gestion des tâches à la construction de relations, LifeSync AI fournit des informations et des recommandations personnalisées pour aider les utilisateurs à atteindre leurs objectifs et à maintenir leur bien-être.
+LifeSync AI is a comprehensive AI-powered life management platform that helps users organize and optimize every aspect of their lives. From health monitoring to financial planning, from task management to relationship building, LifeSync AI provides personalized insights and recommendations to help users achieve their goals and maintain their well-being.
 
-## 🚀 Caractéristiques Clés
+## 🚀 Key Features
 
-### 🧠 Assistant IA
-- **Recommandations Intelligentes**: Suggestions personnalisées basées sur les données et les habitudes de l'utilisateur
-- **Traitement du Langage Naturel**: Discutez avec l'IA pour obtenir des informations et planifier
-- **Analyse Prédictive**: Anticipe les besoins et fournit des conseils proactifs
-- **Support Multi-langue**: Disponible en anglais, français et arabe avec support RTL
+### 🧠 AI Assistant
+- **Smart Recommendations**: Personalized suggestions based on user data and habits
+- **Natural Language Processing**: Chat with AI for insights and planning
+- **Predictive Analytics**: Anticipates needs and provides proactive advice
+- **Multi-language Support**: Available in English, French, and Arabic with RTL support
 
-### 🏥 Module Santé & Bien-être
-- **Suivi Complet de la Santé**: Humeur, poids, exercice, sommeil, consommation d'eau, pas
-- **Gestion des Médicaments**: Rappels et planification
-- **Planification des Repas**: Plans nutritionnels générés par l'IA avec restrictions alimentaires
-- **Surveillance du Bien-être**: Détection de l'épuisement professionnel et prévention des crises
-- **Informations sur la Santé**: Analyse des tendances et recommandations personnalisées
+### 🏥 Health & Wellness Module
+- **Comprehensive Health Tracking**: Mood, weight, exercise, sleep, water intake, steps
+- **Medication Management**: Reminders and scheduling
+- **Meal Planning**: AI-generated nutritional plans with dietary restrictions
+- **Wellness Monitoring**: Burnout detection and crisis prevention
+- **Health Insights**: Trend analysis and personalized recommendations
 
-### 💰 Suivi Financier
-- **Gestion des Dépenses**: Suivi catégorisé des dépenses avec stockage des reçus
-- **Planification Budgétaire**: Création de budgets intelligents avec alertes et notifications
-- **Portefeuille d'Investissement**: Suivi des actions, obligations, ETF, crypto et fonds communs de placement
-- **Analyse Financière**: Modèles de dépenses et suggestions d'optimisation
-- **Épargne Basée sur les Objectifs**: Suivi des progrès vers les objectifs financiers
+### 💰 Financial Tracking
+- **Expense Management**: Categorized expense tracking with receipt storage
+- **Budget Planning**: Smart budget creation with alerts and notifications
+- **Investment Portfolio**: Track stocks, bonds, ETFs, crypto, and mutual funds
+- **Financial Analysis**: Spending patterns and optimization suggestions
+- **Goal-based Savings**: Progress tracking toward financial objectives
 
-### ✅ Outils de Productivité
-- **Gestion Intelligente des Tâches**: Notation de priorité et planification alimentées par l'IA
-- **Définition et Suivi des Objectifs**: Objectifs SMART avec suivi des étapes
-- **Organisation de Projets**: Structure de tâches hiérarchique avec dépendances
-- **Gestion du Temps**: Estimation de la durée et suivi du temps réel
-- **Analyse des Progrès**: Informations sur la productivité et optimisation
+### ✅ Productivity Tools
+- **Smart Task Management**: AI-powered priority scoring and scheduling
+- **Goal Setting & Tracking**: SMART goals with milestone tracking
+- **Project Organization**: Hierarchical task structure with dependencies
+- **Time Management**: Duration estimation and real-time tracking
+- **Progress Analytics**: Productivity insights and optimization
 
-### 👥 Gestionnaire de Relations
-- **Organisation des Contacts**: Gestion complète des contacts avec types de relations
-- **Suivi des Interactions**: Enregistrement des appels, réunions, cadeaux et communications
-- **Système de Rappel**: Notifications d'anniversaire, d'anniversaire de mariage et de suivi
-- **Analyse des Relations**: Force de connexion et informations sur l'engagement
-- **Calendrier Social**: Dates importantes et planification d'événements
+### 👥 Relationship Manager
+- **Contact Organization**: Comprehensive contact management with relationship types
+- **Interaction Tracking**: Record calls, meetings, gifts, and communications
+- **Reminder System**: Birthday, anniversary, and follow-up notifications
+- **Relationship Analytics**: Connection strength and engagement insights
+- **Social Calendar**: Important dates and event planning
 
-### 📚 Assistant d'Apprentissage
-- **Parcours d'Apprentissage Personnalisés**: Parcours éducatifs organisés par l'IA
-- **Répétition Espacée**: Système intelligent de flashcards avec planification adaptative
-- **Suivi des Progrès**: Métriques de développement des compétences et de rétention des connaissances
-- **Système de Quiz**: Évaluations régulières avec analyse des performances
-- **Gestion des Ressources**: Organisation des supports d'étude et des références
+### 📚 Learning Assistant
+- **Personalized Learning Paths**: AI-curated educational journeys
+- **Spaced Repetition**: Smart flashcard system with adaptive scheduling
+- **Progress Tracking**: Skill development and knowledge retention metrics
+- **Quiz System**: Regular assessments with performance analysis
+- **Resource Management**: Study materials and reference organization
 
-### 🛡️ Prévention des Crises & Bien-être
-- **Surveillance de l'Épuisement Professionnel**: Suivi en temps réel du stress et des niveaux d'énergie
-- **Alertes de Santé Mentale**: Système d'alerte précoce pour la prévention des crises
-- **Contacts d'Urgence**: Accès rapide au réseau de soutien
-- **Bilans de Bien-être**: Évaluations régulières de la santé mentale
-- **Répertoire des Ressources**: Lignes d'assistance téléphonique en cas de crise et services de soutien
+### 🛡️ Crisis Prevention & Wellness
+- **Burnout Monitoring**: Real-time stress and energy level tracking
+- **Mental Health Alerts**: Early warning system for crisis prevention
+- **Emergency Contacts**: Quick access to support network
+- **Wellness Check-ins**: Regular mental health assessments
+- **Resource Directory**: Crisis helplines and support services
 
-## 🛠️ Architecture Technique
+## 🛠️ Technical Architecture
 
-### Pile Frontend
-- **React 18** avec TypeScript pour un développement type-safe
-- **Tailwind CSS** pour un style réactif et utilitaire
-- **Framer Motion** pour des animations fluides et des micro-interactions
-- **Recharts** pour la visualisation de données et l'analyse
-- **Lucide React** pour une iconographie cohérente
+### Frontend Stack
+- **React 18** with TypeScript for type-safe development
+- **Tailwind CSS** for responsive and utility-first styling
+- **Framer Motion** for smooth animations and micro-interactions
+- **Recharts** for data visualization and analytics
+- **Lucide React** for consistent iconography
 
-### Backend & Base de Données
-- **Supabase** pour l'authentification, la base de données et les fonctionnalités en temps réel
-- **PostgreSQL** avec Row Level Security (RLS) pour la protection des données
-- **Edge Functions** pour les points d'API serverless
-- **Real-time Subscriptions** pour les mises à jour de données en direct
+### Backend & Database
+- **Supabase** for authentication, database, and real-time features
+- **PostgreSQL** with Row Level Security (RLS) for data protection
+- **Edge Functions** for serverless API endpoints
+- **Real-time Subscriptions** for live data updates
 
-### IA & Intelligence
-- **GroqCloud API** avec les modèles LLaMA pour le traitement du langage naturel
-- **Prompts AI Personnalisés** pour des recommandations spécifiques au domaine
-- **Apprentissage Automatique** pour la reconnaissance de formes et l'analyse prédictive
-- **Moteur de Personnalisation** pour des expériences utilisateur adaptatives
+### AI & Intelligence
+- **GroqCloud API** with LLaMA models for natural language processing
+- **Custom AI Prompts** for domain-specific recommendations
+- **Machine Learning** for pattern recognition and predictive analysis
+- **Personalization Engine** for adaptive user experiences
 
-### Internationalisation
-- **Support Multi-langue**: Anglais, Français, Arabe
-- **Support de la mise en page RTL** pour la langue arabe
-- **Localisation Culturelle** pour les formats de date et les conventions
-- **Conformité d'Accessibilité** avec les directives WCAG 2.1
+### Internationalization
+- **Multi-language Support**: English, French, Arabic
+- **RTL Layout Support** for Arabic language
+- **Cultural Localization** for date formats and conventions
+- **Accessibility Compliance** with WCAG 2.1 guidelines
 
-## 🔒 Sécurité & Confidentialité
+## 🔒 Security & Privacy
 
-### Protection des Données
-- **Chiffrement de bout en bout** pour les données sensibles
-- **Sécurité au niveau des lignes (RLS)** garantissant que les utilisateurs n'accèdent qu'à leurs propres données
-- **Conformité GDPR** avec des capacités d'exportation et de suppression de données
-- **Journalisation d'Audit** pour la surveillance de la sécurité et la conformité
+### Data Protection
+- **End-to-end Encryption** for sensitive data
+- **Row Level Security (RLS)** ensuring users only access their own data
+- **GDPR Compliance** with data export and deletion capabilities
+- **Audit Logging** for security monitoring and compliance
 
-### Authentification
-- **Authentification Sécurisée** avec Supabase Auth
-- **Gestion de Session** avec rafraîchissement automatique des jetons
-- **Sécurité des Mots de Passe** avec hachage bcrypt
-- **Récupération de Compte** avec des mécanismes de réinitialisation sécurisés
+### Authentication
+- **Secure Authentication** with Supabase Auth
+- **Session Management** with automatic token refresh
+- **Password Security** with bcrypt hashing
+- **Account Recovery** with secure reset mechanisms
 
-## 📱 Expérience Utilisateur
+## 📱 User Experience
 
-### Philosophie de Conception
-- **Esthétique de Conception de niveau Apple** avec une attention aux détails
-- **Navigation Intuitive** avec des modèles d'interaction cohérents
-- **Conception Réactive** optimisée pour toutes les tailles d'appareils
-- **Support du Mode Sombre** pour une visualisation confortable
-- **Accessibilité Avant Tout** avec navigation au clavier et support de lecteur d'écran
+### Design Philosophy
+- **Apple-level Design Aesthetics** with attention to detail
+- **Intuitive Navigation** with consistent interaction patterns
+- **Responsive Design** optimized for all device sizes
+- **Dark Mode Support** for comfortable viewing
+- **Accessibility First** with keyboard navigation and screen reader support
 
 ### Performance
-- **Chargement Optimisé** avec découpage de code et chargement paresseux
-- **Mise en Cache Efficace** pour des temps de réponse améliorés
-- **Capacités d'Application Web Progressive** pour des fonctionnalités hors ligne
-- **Mises à jour en Temps Réel** sans rafraîchissement de page
+- **Optimized Loading** with code splitting and lazy loading
+- **Efficient Caching** for improved response times
+- **Progressive Web App Capabilities** for offline functionality
+- **Real-time Updates** without page refresh
 
-## 🚀 Démarrage Rapide
+## 🚀 Quick Start
 
-### Prérequis
-- Node.js 18+ et npm
-- Compte et projet Supabase
-- Clé API GroqCloud
+### Prerequisites
+- Node.js 18+ and npm
+- Supabase account and project
+- GroqCloud API key
 
 ### Installation
 
-1. **Cloner le dépôt**
+1. **Clone the repository**
    ```bash
    git clone https://github.com/HosniBelfeki/lifesync-ai.git
    cd lifesync-ai
    ```
 
-2. **Installer les dépendances**
+2. **Install dependencies**
    ```bash
    npm install
    ```
 
-3. **Configuration de l'environnement**
+3. **Environment setup**
    ```bash
    cp .env.example .env
    ```
    
-   Configurez vos variables d'environnement:
+   Configure your environment variables:
    ```env
-   VITE_SUPABASE_URL=votre_url_supabase
-   VITE_SUPABASE_ANON_KEY=votre_clé_anon_supabase
-   VITE_GROQ_API_KEY=votre_clé_api_groq
+   VITE_SUPABASE_URL=your_supabase_url
+   VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
+   VITE_GROQ_API_KEY=your_groq_api_key
    ```
 
-4. **Configuration de la base de données**
+4. **Database setup**
    ```bash
-   # Exécutez la migration pour configurer le schéma de la base de données
-   # Exécutez les fichiers SQL dans supabase/migrations/ dans votre tableau de bord Supabase
+   # Run migration to set up database schema
+   # Execute SQL files in supabase/migrations/ in your Supabase dashboard
    ```
 
-5. **Démarrer le serveur de développement**
+5. **Start development server**
    ```bash
    npm run dev
    ```
 
-## 📊 Schéma de Base de Données
+## 📊 Database Schema
 
-L'application utilise un schéma de base de données complet avec les entités principales suivantes:
+The application uses a comprehensive database schema with the following main entities:
 
-- **Profils Utilisateur**: Informations utilisateur étendues et préférences
-- **Journaux de Santé**: Métriques de santé et données de bien-être
-- **Plans de Repas**: Planification nutritionnelle et suivi alimentaire
-- **Médicaments**: Horaires et rappels de médicaments
-- **Dépenses & Budgets**: Suivi financier et planification
-- **Investissements**: Gestion de portefeuille
-- **Tâches & Objectifs**: Productivité et suivi des objectifs
-- **Contacts & Interactions**: Gestion des relations
-- **Parcours d'Apprentissage & Flashcards**: Contenu éducatif
-- **Conversations IA**: Historique et contexte des discussions
+- **User Profiles**: Extended user information and preferences
+- **Health Logs**: Health metrics and wellness data
+- **Meal Plans**: Nutritional planning and dietary tracking
+- **Medications**: Medication schedules and reminders
+- **Expenses & Budgets**: Financial tracking and planning
+- **Investments**: Portfolio management
+- **Tasks & Goals**: Productivity and goal tracking
+- **Contacts & Interactions**: Relationship management
+- **Learning Paths & Flashcards**: Educational content
+- **AI Conversations**: Chat history and context
 
-## 🔧 Développement
+## 🔧 Development
 
-### Organisation du Code
-- **Architecture Modulaire** avec une séparation claire des préoccupations
-- **Conception Basée sur les Composants** pour la réutilisabilité
-- **Hooks Personnalisés** pour la logique partagée
-- **Sécurité des Types** avec une couverture TypeScript complète
-- **Limites d'Erreur** pour une gestion élégante des erreurs
+### Code Organization
+- **Modular Architecture** with clear separation of concerns
+- **Component-based Design** for reusability
+- **Custom Hooks** for shared logic
+- **Type Safety** with full TypeScript coverage
+- **Error Boundaries** for graceful error handling
 
-### Stratégie de Test
-- **Tests Unitaires** pour les composants et fonctions individuels
-- **Tests d'Intégration** pour les flux de travail utilisateur
-- **Tests E2E** pour les parcours utilisateur critiques
-- **Tests de Performance** pour l'optimisation
-- **Tests d'Accessibilité** pour la conformité
+### Testing Strategy
+- **Unit Tests** for individual components and functions
+- **Integration Tests** for user workflows
+- **E2E Tests** for critical user journeys
+- **Performance Tests** for optimization
+- **Accessibility Tests** for compliance
 
-### Déploiement
-- **Vercel/Netlify** pour l'hébergement frontend
-- **Supabase** pour l'infrastructure backend
-- **Intégration CDN** pour des performances globales
-- **Gestion de l'Environnement** pour la mise en scène et la production
+### Deployment
+- **Vercel/Netlify** for frontend hosting
+- **Supabase** for backend infrastructure
+- **CDN Integration** for global performance
+- **Environment Management** for staging and production
 
-## 🤝 Contribution
+## 🤝 Contributing
 
-Nous accueillons les contributions! Veuillez consulter nos [Directives de Contribution](CONTRIBUTING.md) pour plus de détails sur:
+We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details on:
 
-- Style et normes de code
-- Processus de demande de tirage (Pull Request)
-- Signalement des problèmes
-- Demandes de fonctionnalités
-- Améliorations de la documentation
+- Code style and standards
+- Pull request process
+- Issue reporting
+- Feature requests
+- Documentation improvements
 
-## 📄 Licence
+## 📄 License
 
-Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Remerciements
+## 🙏 Acknowledgments
 
-- **Supabase** pour l'excellente plateforme backend-as-a-service
-- **GroqCloud** pour l'inférence IA rapide et fiable
-- **Tailwind CSS** pour le framework CSS utilitaire
-- **L'équipe React** pour l'incroyable bibliothèque frontend
-- **La Communauté Open Source** pour les innombrables bibliothèques et outils
+- **Supabase** for the excellent backend-as-a-service platform
+- **GroqCloud** for fast and reliable AI inference
+- **Tailwind CSS** for the utility-first CSS framework
+- **React Team** for the amazing frontend library
+- **Open Source Community** for countless libraries and tools
 
 ---
 
-**LifeSync AI** - Vous permettant de vivre votre meilleure vie grâce à une organisation intelligente et des informations alimentées par l'IA.
-
-
-
-
+**LifeSync AI** - Empowering you to live your best life through intelligent organization and AI-powered insights.
