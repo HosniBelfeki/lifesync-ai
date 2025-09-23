@@ -274,7 +274,7 @@ export function Header() {
       initial={{ y: -20, opacity: 0 }}
       animate={{ y: 0, opacity: 1 }}
       transition={{ duration: 0.3 }}
-      className="bg-white dark:bg-gray-800 border-b border-blue-100 dark:border-gray-700 px-6 py-4 relative"
+      className="sticky top-0 z-40 bg-white/70 dark:bg-gray-800/70 backdrop-blur-xl border-b border-transparent px-6 py-4 relative shadow-soft"
     >
       <div className="flex items-center justify-between">
         {/* Enhanced Search */}
@@ -581,6 +581,9 @@ export function Header() {
           }}
         />
       )}
+
+      {/* Decorative bottom gradient line */}
+      <div className="pointer-events-none absolute inset-x-0 -bottom-px h-px bg-gradient-to-r from-transparent via-blue-500/40 to-transparent"></div>
     </motion.header>
   );
 }

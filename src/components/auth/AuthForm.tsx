@@ -75,7 +75,7 @@ export function AuthForm() {
         >
           <div className="flex items-center justify-center mb-8">
             <img 
-              src="/LifeSync AI logo.png" 
+              src="/LifeSync_AI_logo.png" 
               alt="LifeSync AI" 
               className="h-32 w-32 md:h-40 md:w-40 object-contain"
             />
