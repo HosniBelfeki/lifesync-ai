@@ -132,9 +132,15 @@ function AppContent() {
 
   return (
     <>
-      <div className="flex h-screen bg-gray-50 dark:bg-gray-900">
+      <div className="relative flex h-screen bg-gradient-to-br from-slate-50 via-white to-blue-50 dark:from-gray-950 dark:via-gray-900 dark:to-slate-900 overflow-hidden">
+        {/* Background decorative blobs */}
+        <div className="pointer-events-none absolute inset-0 -z-10 overflow-hidden">
+          <div className="absolute -top-24 -left-24 h-72 w-72 rounded-full bg-gradient-to-tr from-blue-300 to-indigo-300 opacity-30 blur-3xl dark:from-blue-900 dark:to-indigo-800"></div>
+          <div className="absolute -bottom-24 -right-24 h-96 w-96 rounded-full bg-gradient-to-tr from-purple-300 to-pink-300 opacity-20 blur-3xl dark:from-purple-900 dark:to-pink-800"></div>
+        </div>
+
         <Sidebar activeView={activeView} setActiveView={setActiveView} />
-        <div className="flex-1 flex flex-col overflow-hidden">
+        <div className="relative z-10 flex-1 flex flex-col overflow-hidden">
           <Header />
           <main className="flex-1 overflow-y-auto">
             <ErrorBoundary>

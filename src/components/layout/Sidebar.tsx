@@ -41,14 +41,14 @@ export function Sidebar({ activeView, setActiveView }: SidebarProps) {
       initial={{ x: -100, opacity: 0 }}
       animate={{ x: 0, opacity: 1 }}
       transition={{ duration: 0.3 }}
-      className="w-64 bg-white dark:bg-gray-800 border-r border-blue-100 dark:border-gray-700 flex flex-col h-full"
+      className="relative z-10 w-64 bg-white/90 dark:bg-gray-800/90 backdrop-blur-xl border-r border-blue-100 dark:border-gray-700 flex flex-col h-full shadow-soft"
     >
       {/* Logo */}
-      <div className="p-6 border-b border-blue-100 dark:border-gray-700">
+      <div className="p-6 border-b border-blue-100 dark:border-gray-700 bg-gradient-to-r from-blue-50 to-purple-50 dark:from-blue-950/30 dark:to-purple-950/20 rounded-br-3xl">
         <div className="flex items-center space-x-3">
           <div className="flex-shrink-0">
             <img 
-              src="/LifeSync AI logo.png" 
+              src="/LifeSync_AI_logo.png" 
               alt="LifeSync AI" 
               className="h-12 w-12 object-contain"
             />
@@ -76,11 +76,11 @@ export function Sidebar({ activeView, setActiveView }: SidebarProps) {
               onClick={() => setActiveView(item.id)}
               className={`w-full flex items-center space-x-3 px-4 py-3 rounded-lg transition-all duration-200 ${
                 isActive
-                  ? 'bg-blue-50 dark:bg-blue-900/20 text-blue-700 dark:text-blue-300 border border-blue-200 dark:border-blue-700'
+                  ? 'bg-gradient-to-r from-blue-600 to-indigo-600 text-white shadow-md ring-1 ring-blue-300/30 dark:ring-blue-700/30'
                   : 'text-gray-700 dark:text-gray-300 hover:bg-blue-50 dark:hover:bg-gray-700'
               }`}
             >
-              <Icon className={`h-5 w-5 ${isActive ? 'text-blue-600 dark:text-blue-400' : ''}`} />
+              <Icon className={`h-5 w-5 ${isActive ? 'text-white' : ''}`} />
               <span className="font-medium">
                 <TranslatedText text={item.label} />
               </span>
